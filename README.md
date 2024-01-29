@@ -3,7 +3,7 @@ https://drive.google.com/file/d/1JV_zS22Wp-0yl4ikQgJZfiJS2SkoeD08/view?usp=drive
 https://drive.google.com/file/d/1j-nqGO4QbuAnc8XRnpOrIHkAaCwfv-zD/view?usp=drive_link
 
 1. Write a program to compute Simple Interest.
-
+[Write a program to compute Simple Interest.](https://github.com/BHAGATBHAGYASHREE/pythonlabmanual/blob/f233e06a1287e22a26f9793677b7eaa18a16e913/simpleinterest.PY)
 2. Write a program to perform arithmetic, Relational operators.
 
 3. Write a program to find whether a given no is even & odd.
