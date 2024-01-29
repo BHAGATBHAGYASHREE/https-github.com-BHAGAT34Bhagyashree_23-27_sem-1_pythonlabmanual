@@ -1,8 +1,4 @@
-https://drive.google.com/file/d/1JV_zS22Wp-0yl4ikQgJZfiJS2SkoeD08/view?usp=drive_link
 
-[]()
-
-https://drive.google.com/file/d/1j-nqGO4QbuAnc8XRnpOrIHkAaCwfv-zD/view?usp=drive_link
  [ program to compute Simple Interest.](https://github.com/BHAGATBHAGYASHREE/pythonlabmanual/blob/f233e06a1287e22a26f9793677b7eaa18a16e913/simpleinterest.PY)
 
    
@@ -136,4 +132,14 @@ also print the sunrise and sunset times for the same humidity of that area.]()
 
 
 [a program to use the ‘API’ of crypto currency.]()
+
+
+
+
+
+https://drive.google.com/file/d/1JV_zS22Wp-0yl4ikQgJZfiJS2SkoeD08/view?usp=drive_link
+
+[]()
+
+https://drive.google.com/file/d/1j-nqGO4QbuAnc8XRnpOrIHkAaCwfv-zD/view?usp=drive_link
 
