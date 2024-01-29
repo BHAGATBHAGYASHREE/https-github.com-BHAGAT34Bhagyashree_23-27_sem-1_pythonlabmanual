@@ -1,3 +1,8 @@
+PROGRAM OF PYTHON
+
+
+
+
 
  [ program to compute Simple Interest.](https://github.com/BHAGATBHAGYASHREE/pythonlabmanual/blob/f233e06a1287e22a26f9793677b7eaa18a16e913/simpleinterest.PY)
 
