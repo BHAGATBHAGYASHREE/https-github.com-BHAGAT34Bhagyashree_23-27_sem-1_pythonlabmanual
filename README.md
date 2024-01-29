@@ -36,10 +36,10 @@ https://drive.google.com/file/d/1j-nqGO4QbuAnc8XRnpOrIHkAaCwfv-zD/view?usp=drive
 
 
 [a program that define the list of defines the list of define countries
-that are in BRICS]()
+that are in BRICS](https://github.com/BHAGATBHAGYASHREE/pythonlabmanual/blob/2b08a677e74d4af63c94f16ec075ada5cc9f16c9/bricscountry.py)
 
 
-[a program to traverse a list in reverse order.]()
+[a program to traverse a list in reverse order.](https://github.com/BHAGATBHAGYASHREE/pythonlabmanual/blob/2b08a677e74d4af63c94f16ec075ada5cc9f16c9/numberinreverse.py)
 
 
 [a program to create a list of tuples from given list having number
