@@ -44,18 +44,18 @@ that are in BRICS](https://github.com/BHAGATBHAGYASHREE/pythonlabmanual/blob/2b0
 
 
 [a program to create a list of tuples from given list having number
-and add its cube in tuple.]()
+and add its cube in tuple.](https://github.com/BHAGATBHAGYASHREE/pythonlabmanual/blob/04cc8403a5871a1d1ee773d0b28846db1be073e5/cube.py)
 
 
 
-[a program to compare two dictionaries in Python? (By using == operator)]()
+[a program to compare two dictionaries in Python? (By using == operator)](https://github.com/BHAGATBHAGYASHREE/pythonlabmanual/blob/04cc8403a5871a1d1ee773d0b28846db1be073e5/dictonariesareequal.py)
 
 
 [ a program that creates dictionary of cube of odd numbers in the
-range.]()
+range.](https://github.com/BHAGATBHAGYASHREE/pythonlabmanual/blob/04cc8403a5871a1d1ee773d0b28846db1be073e5/cuberoot.py)
 
 
-[a program for various list slicing operation.]()
+[a program for various list slicing operation.](https://github.com/BHAGATBHAGYASHREE/pythonlabmanual/blob/04cc8403a5871a1d1ee773d0b28846db1be073e5/sliced.py)
 
 
 
